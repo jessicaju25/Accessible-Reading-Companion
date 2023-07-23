@@ -11,6 +11,9 @@ The "Accessible Reading Companion" is an innovative Chrome extension committed t
 | Interactive Navigation    | Navigate web pages with ease using interactive controls. Users can effortlessly pause, resume, and skip sections during the reading process, customizing their browsing experience for optimal comprehension. |
 | User-Friendly Interface   | Our extension boasts an intuitive and accessible user interface, ensuring smooth navigation for all users. With clear instructions and straightforward controls, the "Accessible Reading Companion" prioritizes ease of use. |
 
+![7510723 ai](https://github.com/jessicaju25/Accessible-Reading-Companion/assets/116128813/2c0e5a71-d04b-4e6d-81db-c49679a91cb0)
+
+
 ## Empowerment through Inclusivity
 
 We firmly believe that accessibility is a fundamental right, not a privilege. By empowering individuals with visual impairments or learning disabilities, we aim to bridge the accessibility gap and create a more inclusive online environment.
